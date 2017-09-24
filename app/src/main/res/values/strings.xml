@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test1</string>
+
+    <string name="facebook_app_id">211617232707393</string>
+    <string name="fb_login_protocol_scheme">fb211617232707393</string>
+
+    <string name="welcome">Bem Vindo</string>
+    <string name="cancel_login">Cancelar</string>
+    <string name="error_login">Erro ao Ingressar</string>
+    <string name="logout">Encerrar Sessao</string>
+
+
+
+</resources>
